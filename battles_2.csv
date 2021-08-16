@@ -1,0 +1,37 @@
+name,year,attacker_king,defender_king,attacker_1,defender_1,attacker_outcome,battle_type,major_death,major_capture,attacker_size,defender_size,summer,location,region,attacker_commander_1,defender_commander_1,size_difference,size_difference_disc,total_size
+Battle of the Golden Tooth,298,Joffrey/Tommen Baratheon,Robb Stark,Lannister,Tully,1,pitched battle,1,0,15000.0,4000.0,1,Golden Tooth,The Westerlands,Jaime Lannister,Clement Piper,11000.0,advantage_2,19000.0
+Battle at the Mummer's Ford,298,Joffrey/Tommen Baratheon,Robb Stark,Lannister,Baratheon,1,ambush,1,0,7713.0,120.0,1,Mummer's Ford,The Riverlands,Gregor Clegane,Beric Dondarrion,7593.0,advantage_2,7833.0
+Battle of Riverrun,298,Joffrey/Tommen Baratheon,Robb Stark,Lannister,Tully,1,pitched battle,0,1,15000.0,10000.0,1,Riverrun,The Riverlands,Jaime Lannister,Edmure Tully,5000.0,advantage_2,25000.0
+Battle of the Green Fork,298,Robb Stark,Joffrey/Tommen Baratheon,Stark,Lannister,0,pitched battle,1,1,18000.0,20000.0,1,Green Fork,The Riverlands,Roose Bolton,Tywin Lannister,-2000.0,disavantage_2,38000.0
+Battle of the Whispering Wood,298,Robb Stark,Joffrey/Tommen Baratheon,Stark,Lannister,1,ambush,1,1,1875.0,6000.0,1,Whispering Wood,The Riverlands,Robb Stark,Jaime Lannister,-4125.0,disavantage_3,7875.0
+Battle of the Camps,298,Robb Stark,Joffrey/Tommen Baratheon,Stark,Lannister,1,ambush,0,0,6000.0,12625.0,1,Riverrun,The Riverlands,Robb Stark,Lord Andros Brax,-6625.0,disavantage_4,18625.0
+Sack of Darry,298,Joffrey/Tommen Baratheon,Robb Stark,Lannister,Darry,1,pitched battle,0,0,9020.0,7487.0,1,Darry,The Riverlands,Gregor Clegane,Lyman Darry,1533.0,advantage_1,16507.0
+Battle of Moat Cailin,299,Balon/Euron Greyjoy,Robb Stark,Greyjoy,Stark,1,pitched battle,0,0,3708.0,9088.0,1,Moat Cailin,The North,Victarion Greyjoy,Unknown,-5380.0,disavantage_4,12796.0
+Battle of Deepwood Motte,299,Balon/Euron Greyjoy,Robb Stark,Greyjoy,Stark,1,siege,0,0,1000.0,6667.0,1,Deepwood Motte,The North,Asha Greyjoy,Unknown,-5667.0,disavantage_4,7667.0
+Battle of the Stony Shore,299,Balon/Euron Greyjoy,Robb Stark,Greyjoy,Stark,1,ambush,0,0,264.0,6392.0,1,Stony Shore,The North,Theon Greyjoy,Unknown,-6128.0,disavantage_4,6656.0
+Battle of Torrhen's Square,299,Robb Stark,Balon/Euron Greyjoy,Stark,Greyjoy,1,pitched battle,0,0,244.0,900.0,1,Torrhen's Square,The North,Rodrik Cassel,Dagmer Cleftjaw,-656.0,disavantage_1,1144.0
+Battle of Winterfell,299,Balon/Euron Greyjoy,Robb Stark,Greyjoy,Stark,1,ambush,0,1,20.0,5308.0,1,Winterfell,The North,Theon Greyjoy,Bran Stark,-5288.0,disavantage_3,5328.0
+Sack of Torrhen's Square,299,Balon/Euron Greyjoy,Balon/Euron Greyjoy,Greyjoy,Stark,1,siege,0,1,5397.0,5848.0,1,Torrhen's Square,The North,Dagmer Cleftjaw,Unknown,-451.0,disavantage_1,11245.0
+Sack of Winterfell,299,Joffrey/Tommen Baratheon,Robb Stark,Bolton,Stark,1,ambush,1,0,618.0,2000.0,1,Winterfell,The North,Ramsay Snow,Rodrik Cassel,-1382.0,disavantage_2,2618.0
+Battle of Oxcross,299,Robb Stark,Joffrey/Tommen Baratheon,Stark,Lannister,1,ambush,1,1,6000.0,10000.0,1,Oxcross,The Westerlands,Robb Stark,Stafford Lannister,-4000.0,disavantage_3,16000.0
+Siege of Storm's End,299,Stannis Baratheon,Renly Baratheon,Baratheon,Baratheon,1,siege,1,0,5000.0,20000.0,1,Storm's End,The Stormlands,Stannis Baratheon,Renly Baratheon,-15000.0,disavantage_4,25000.0
+Battle of the Fords,299,Joffrey/Tommen Baratheon,Robb Stark,Lannister,Tully,0,pitched battle,0,0,20000.0,10000.0,1,Red Fork,The Riverlands,Tywin Lannister,Edmure Tully,10000.0,advantage_2,30000.0
+Sack of Harrenhal,299,Robb Stark,Joffrey/Tommen Baratheon,Stark,Lannister,1,ambush,1,0,100.0,100.0,1,Harrenhal,The Riverlands,Roose Bolton,Amory Lorch,0.0,disavantage_1,200.0
+Battle of the Crag,299,Robb Stark,Joffrey/Tommen Baratheon,Stark,Lannister,1,ambush,0,0,6000.0,8586.0,1,Crag,The Westerlands,Robb Stark,Rolph Spicer,-2586.0,disavantage_3,14586.0
+Battle of the Blackwater,299,Stannis Baratheon,Joffrey/Tommen Baratheon,Baratheon,Lannister,0,pitched battle,1,1,21000.0,7250.0,1,King's Landing,The Crownlands,Stannis Baratheon,Tyrion Lannister,13750.0,advantage_2,28250.0
+Siege of Darry,299,Robb Stark,Joffrey/Tommen Baratheon,Darry,Lannister,1,siege,0,0,3171.0,11536.0,1,Darry,The Riverlands,Helman Tallhart,Unknown,-8365.0,disavantage_4,14707.0
+Battle of Duskendale,299,Robb Stark,Joffrey/Tommen Baratheon,Stark,Lannister,0,pitched battle,1,0,3000.0,12691.0,1,Duskendale,The Crownlands,Robertt Glover,Randyll Tarly,-9691.0,disavantage_4,15691.0
+Battle of the Ruby Ford,299,Joffrey/Tommen Baratheon,Robb Stark,Lannister,Stark,1,pitched battle,0,0,7189.0,6000.0,1,Ruby Ford,The Riverlands,Gregor Clegane,Roose Bolton,1189.0,advantage_1,13189.0
+Retaking of Harrenhal,299,Joffrey/Tommen Baratheon,None,Lannister,Brave Companions,1,pitched battle,1,0,6142.0,3776.0,1,Harrenhal,The Riverlands,Gregor Clegane,Vargo Hoat,2366.0,advantage_1,9918.0
+The Red Wedding,299,Joffrey/Tommen Baratheon,Robb Stark,Frey,Stark,1,ambush,1,1,3500.0,3500.0,1,The Twins,The Riverlands,Walder Frey,Robb Stark,0.0,disavantage_1,7000.0
+Siege of Seagard,299,Robb Stark,Joffrey/Tommen Baratheon,Frey,Mallister,1,siege,0,1,1978.0,3502.0,1,Seagard,The Riverlands,Walder Frey,Jason Mallister,-1524.0,disavantage_2,5480.0
+Fall of Moat Cailin,300,Joffrey/Tommen Baratheon,Balon/Euron Greyjoy,Bolton,Greyjoy,1,siege,0,0,2634.0,2706.0,0,Moat Cailin,The North,Ramsey Bolton,Unknown,-72.0,disavantage_1,5340.0
+Sack of Saltpans,300,None,None,Brave Companions,None,1,razing,0,0,2204.0,2872.0,0,Saltpans,The Riverlands,Rorge,Unknown,-668.0,disavantage_1,5076.0
+Retaking of Deepwood Motte,300,Stannis Baratheon,Balon/Euron Greyjoy,Baratheon,Greyjoy,1,pitched battle,0,0,4500.0,200.0,0,Deepwood Motte,The North,Stannis Baratheon,Asha Greyjoy,4300.0,advantage_2,4700.0
+Battle of the Shield Islands,300,Balon/Euron Greyjoy,Joffrey/Tommen Baratheon,Greyjoy,Tyrell,1,pitched battle,0,0,1474.0,3714.0,0,Shield Islands,The Reach,Euron Greyjoy,Unknown,-2240.0,disavantage_2,5188.0
+"Invasion of Ryamsport, Vinetown, and Starfish Harbor",300,Balon/Euron Greyjoy,Joffrey/Tommen Baratheon,Greyjoy,Tyrell,1,razing,0,0,1635.0,3746.0,0,"Ryamsport, Vinetown, Starfish Harbor",The Reach,Euron Greyjoy,Unknown,-2111.0,disavantage_2,5381.0
+Second Seige of Storm's End,300,Joffrey/Tommen Baratheon,Stannis Baratheon,Baratheon,Baratheon,1,siege,0,0,2026.0,200.0,0,Storm's End,The Stormlands,Mace Tyrell,Gilbert Farring,1826.0,advantage_1,2226.0
+Siege of Dragonstone,300,Joffrey/Tommen Baratheon,Stannis Baratheon,Baratheon,Baratheon,1,siege,0,0,2000.0,3768.0,0,Dragonstone,The Stormlands,Loras Tyrell,Rolland Storm,-1768.0,disavantage_2,5768.0
+Siege of Riverrun,300,Joffrey/Tommen Baratheon,Robb Stark,Lannister,Tully,1,siege,0,0,3000.0,3479.0,0,Riverrun,The Riverlands,Daven Lannister,Brynden Tully,-479.0,disavantage_1,6479.0
+Siege of Raventree,300,Joffrey/Tommen Baratheon,Robb Stark,Bracken,Blackwood,1,siege,0,1,1500.0,6504.0,0,Raventree,The Riverlands,Jonos Bracken,Tytos Blackwood,-5004.0,disavantage_3,8004.0
+Siege of Winterfell,300,Stannis Baratheon,Joffrey/Tommen Baratheon,Baratheon,Bolton,0,siege,0,0,5000.0,8000.0,0,Winterfell,The North,Stannis Baratheon,Roose Bolton,-3000.0,disavantage_3,13000.0
