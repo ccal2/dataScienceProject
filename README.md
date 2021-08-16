@@ -7,7 +7,7 @@ Projeto desenvolvido para a disciplina `IF697 - Tópicos Avançados em Gerenciam
 
 Esse projeto foi desenvolvido utilizando um _dataset_ que contém dados relacionados à série de livros _A Song of Ice and Fire_ (As Crônicas de Gelo e Fogo), mais conhecida pelo título do seu primeiro livro: _A Game of Thrones_ (A Guerra dos Tronos).
 
-O arquivo `battles.csv` foi baixados diretamente de um *dataset* do [kaggle](https://www.kaggle.com/mylesoneill/game-of-thrones) e possui informações de várias batalhas que ocorrem durante a história.
+O arquivo `battles.csv` foi baixados diretamente de um [dataset do kaggle](https://www.kaggle.com/mylesoneill/game-of-thrones) e possui informações de várias batalhas que ocorrem durante a história.
 
 
 # Parte I
