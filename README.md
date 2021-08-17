@@ -26,6 +26,8 @@ A primeira parte do projeto consiste em:
 
 # Parte II
 
+[project_2.ipynb](./project_2.ipynb)
+
 A segunda parte do projeto utiliza o dataset processado na parte I para criar um classificador a partir de algoritmos de _Machine Learning_. A coluna escolhida para a classificação foi a `attacker_outcome`, que indica se o atacante venceu ou não a batalha.
 
 Os algoritmos utilizados foram:
